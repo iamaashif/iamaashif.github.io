@@ -1,0 +1,81 @@
+* {
+	margin: 0;
+	color: white;
+}
+h1:hover{
+	transform: scale(1.1);
+}
+.header{
+	background-color: #474f85;
+}
+.header h1 {
+	padding-bottom: 10px;
+	padding-top: 10px;
+	font-family: 'Merienda One', cursive;
+	text-align: center;
+	transition: all 0.5s;
+}
+.container {
+	display: flex;
+	justify-content: space-around;
+}
+.content1 h3{
+	color: black;
+	text-transform: uppercase;
+	text-align: center;
+}
+.content1{
+	text-align: justify;
+	font-family: 'Josefin Sans';
+	font-size: 120%;
+	line-height: 20px;
+	width: 50%;
+	margin: 0px 30px;
+}
+.content1 p{
+	color: black;
+
+}
+.content1 img {
+  		width: 100%
+}
+.content h3{
+	color: black;
+	text-transform: uppercase;
+	text-align: center;
+}
+.content{
+	text-align: justify;
+	font-family: 'Josefin Sans';
+	font-size: 120%;
+	line-height: 20px;
+	width: 10%;
+	margin: 0px 30px;
+}
+.content p{
+	color: black;
+
+}
+.content img {
+  		width: 100%;
+}
+.content2 h3{
+	color: black;
+	text-transform: uppercase;
+	text-align: center;
+}
+.content2{
+	text-align: justify;
+	font-family: 'Josefin Sans';
+	font-size: 120%;
+	line-height: 20px;
+	width: 10%;
+	margin: 0px 30px;
+}
+.content2 p{
+	color: black;
+
+}
+.content2 img {
+  		width: 100%;
+}
